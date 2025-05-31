@@ -68,5 +68,63 @@ Watch Job Orbit in Action -> [Demo Video](https://drive.google.com/file/d/1_eeGd
 - **Background/Experience**: Data/AI consultant at AWS
 
 
-### Setup Instruction
-- 
+## Setup Instruction
+
+**Step 1: Setup environment variables for Agno Agent and LinkedinApi in the Terminal**
+
+```
+export AWS_ACCESS_KEY_ID=***
+export AWS_SECRET_ACCESS_KEY=***
+export AWS_REGION=***
+```
+
+Note: The code is configured to be using Claude 3 Sonnet and Claude 3.7 Sonnet. In order to test the code these models need to be enabled in the AWS Console.
+
+**Step 2: Storing environment variables in .env file**
+Create a .env file in the root directory and populate the following
+
+```
+ACCESS_KEY=*** 
+SECRET_KEY=*** 
+LINKEDIN_NAME=*** 
+LINKEDIN_PASSWORD=***
+```
+
+**Step 3: If using Ollam models**
+
+Open Terminal and type:
+
+```
+ollama serve 
+```
+
+Note: The code is configured to be using llama3.1, so make sure to download the model.
+
+***Step 4: Creating Virtual Environment and Installing the Dependencies***
+
+```
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+**Step 5: Launch JobOrbit Application**
+```
+cd job_orbit_issue33
+streamlit run App.py
+```
+
+The above commands should launch the JobOrbit UI.
+
+## Features to Explore
+
+
+
+
+
+
+
+
+
+
+

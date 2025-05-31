@@ -12,7 +12,7 @@ from agno.models.ollama import Ollama
 from agno.models.aws import AwsBedrock
 from agno.utils.pprint import pprint_run_response
 
-from linkedin_api_test import Linkedin
+from linkedin_api import Linkedin
 from langchain_community.document_loaders import CSVLoader
 from langchain_core.documents import Document
 from resume_customizer import ResumeCustomizer
