@@ -60,8 +60,7 @@ Job Orbit features a minimalist, intuitive interface focused on guiding users th
 
 ## Demo Video
 
-<iframe src="https://drive.google.com/file/d/1_eeGdMl-dlULm2U4D-6t0JfBoD8_j33n/view?usp=sharing">
-</iframe>
+![Demo Video](https://drive.google.com/file/d/1_eeGdMl-dlULm2U4D-6t0JfBoD8_j33n/view?usp=sharing)
 ## Team Information
 
 ### Team Lead:
