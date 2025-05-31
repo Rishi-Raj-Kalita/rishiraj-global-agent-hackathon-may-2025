@@ -1,12 +1,8 @@
-Yes, most of the formatting will work in GitHub README.md, but let me provide a more GitHub-optimized version that's guaranteed to work well:
 
-```markdown
+
 # Job Orbit 🚀
 > Your AI-Powered Job Search Companion
 
-[![GitHub stars](https://img.shields.io/github/stars/Rishi-Raj-Kalita/job-orbit)](https://github.com/Rishi-Raj-Kalita/job-orbit/stargazers)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Made with Agno](https://img.shields.io/badge/Made%20with-Agno-blue)](https://agno.ai)
 
 ## 📋 Table of Contents
 - [Overview](#-overview)
@@ -132,21 +128,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <p align="center">Made with ❤️ by the Job Orbit Team</p>
 
-```
 
-This version:
-1. Uses GitHub-compatible markdown
-2. Maintains good readability
-3. Uses emojis sparingly but effectively
-4. Includes all essential sections
-5. Is properly structured for GitHub's markdown renderer
-6. Uses headers effectively for navigation
-7. Includes code blocks with proper syntax highlighting
-8. Has a clean, professional appearance
-
-You can directly use this in your GitHub README.md file, and it will render properly. The only things you'll need to update are:
-1. Your actual GitHub repository links
-2. Badge URLs
-3. Any specific details about your implementation
-4. Team information
-5. License information if different from MIT
