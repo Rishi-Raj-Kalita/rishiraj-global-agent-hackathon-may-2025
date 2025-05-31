@@ -2,31 +2,18 @@
 import streamlit as st
 import json
 import os
-import fitz
 from datetime import datetime
-from agno.utils.pprint import pprint_run_response
-from typing import Iterator, Dict, Any
-from agno.agent import Agent, RunResponse
-import pandas as pd
-import asyncio
 # Enhanced main.py with batch resume customization
 
 import os
 import json
-from typing import Dict, List, Optional, Union, Any
+
 from datetime import datetime
 import time
 
 from dotenv import load_dotenv
-from agno.agent import Agent, RunResponse
-from agno.models.ollama import Ollama
-from agno.models.aws import AwsBedrock
-from agno.utils.pprint import pprint_run_response
 
 from linkedin_api import Linkedin
-from langchain_community.document_loaders import CSVLoader
-from langchain_core.documents import Document
-from resume_customizer import ResumeCustomizer
 
 load_dotenv()
 
