@@ -1,5 +1,26 @@
 # Job Orbit - Your AI Hiring Companion
 
+## Table of Contents
+- [Overview of the Idea](#overview-of-the-idea)
+- [Project Goal](#project-goal)
+- [How It Works](#how-it-works)
+  - [User Flow](#user-flow)
+  - [Core Functionality](#core-functionality)
+  - [Multimodal Elements](#multimodal-elements)
+  - [Tools Used](#tools-used)
+- [UI Approach](#ui-approach)
+- [Demo Video](#demo-video)
+- [Team Information](#team-information)
+- [Setup Instructions](#setup-instruction)
+  - [Step 1: Setup environment variables](#step-1-setup-environment-variables-for-agno-agent-and-linkedinapi-in-the-terminal)
+  - [Step 2: Storing environment variables](#step-2-storing-environment-variables-in-env-file)
+  - [Step 3: Ollama models setup](#step-3-if-using-ollam-models)
+  - [Step 4: Virtual Environment setup](#step-4-creating-virtual-environment-and-installing-the-dependencies)
+  - [Step 5: Launch Application](#step-5-launch-joborbit-application)
+- [Features to Explore](#features-to-explore)
+  - [Current Features](#current-features)
+  - [Future Scope](#future-scope)
+
 ## Overview of the Idea
 
 Job Orbit is an intelligent AI-powered application that streamlines the job hunting process from search to application. It addresses several critical challenges faced by today's job seekers:
