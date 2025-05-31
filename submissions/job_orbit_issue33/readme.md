@@ -125,6 +125,10 @@ The above commands should launch the JobOrbit UI.
 - **Automated Referral Requests**: AI-driven LinkedIn networking and referral solicitation
 - **One-Click Applications**: Automated job application submission through LinkedIn Easy Apply
 
+**Future Scope**
+- **Memory Integration**: Integrate memory using Mem0.
+- **Applying via company's Job Portal**: Crawl job description using FireCrawl and use BrowserUse to automate job application process.
+
 
 
 
