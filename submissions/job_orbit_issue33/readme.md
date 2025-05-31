@@ -69,4 +69,4 @@ Watch Job Orbit in Action -> [Demo Video](https://drive.google.com/file/d/1_eeGd
 
 
 ### Setup Instruction
-- To be added
+- 
