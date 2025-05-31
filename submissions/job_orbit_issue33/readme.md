@@ -118,6 +118,13 @@ The above commands should launch the JobOrbit UI.
 
 ## Features to Explore
 
+**Current Features**
+- **Resume Upload & Analysis**: Upload your resume in PDF format for automatic information extraction
+- **Intelligent Job Search**: AI-powered LinkedIn job search based on your profile and preferences
+- **Resume Customization**: Automatic resume enhancement using job description keywords
+- **Automated Referral Requests**: AI-driven LinkedIn networking and referral solicitation
+- **One-Click Applications**: Automated job application submission through LinkedIn Easy Apply
+
 
 
 
